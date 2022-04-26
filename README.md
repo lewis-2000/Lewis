@@ -14,7 +14,7 @@ Proficient in C++ and Python Developer <br>
 <p>
 
 <div align="center">
-  <img height="160px" width=100% src="lodwar.jpg">
+  <img height=40% width=100% src="lodwar.jpg">
 </div>
 
 <br />
