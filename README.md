@@ -14,8 +14,7 @@ Proficient in C++ and Python Developer <br>
 <p>
 
 <div align="center">
-  <img height="160px" src="lodwar.jpg">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=pomatechlead&show_icons=true&theme=gotham&count_private=true">
+  <img height="160px" width=100% src="lodwar.jpg">
 </div>
 
 <br />
