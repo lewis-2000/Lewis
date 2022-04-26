@@ -5,21 +5,16 @@
 ## 👱🏾‍♂ About me:
 
 <p>
-Experienced C++ and Python Developer <br>
-I have worked in the financial, medical markets, and payments space for about a year.
+Currently IN school Learning software engineering
+Proficient in C++ and Python Developer <br>
 </p>
 
-<h2>🥇 Specialised in:</h2>
-<p> 🔸 Solidity, Rust, Hardhat, Truffle
-<br>🔸 DeFi, DAO, Play2Earn Game, PancakeSwap, Uniswap V3, Smart Contract, Ethereum, BSC, Polkadot, Avalanche
-<br>🔸 ERC20, ERC721, ERC1155
-<br>🔸 Web3.js, Ether.js, React.js, Redux, Node.js, Next.js, Vue.js
-<br>🔸 Typesecript, Python/Django, PHP/Laravel
-<br>🔸 AWS, Heroku, Digital Ocean
+<h2>👀 Specialised in:</h2>
+<p> 🔸Web development, Dotnet
 <p>
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pomatechlead&layout=compact&theme=gotham&count_private=true">
+  <img height="160px" src="lodwar.jpg">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=pomatechlead&show_icons=true&theme=gotham&count_private=true">
 </div>
 
