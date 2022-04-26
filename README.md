@@ -2,12 +2,11 @@
 </div>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" />
 
-## 🧑 About me:
+## 👱🏾‍♂️ About me:
 
 <p>
-Experienced blockchain architect, smart contracts coder and tokenomics expert. <br>
-I have developed more than 50+ websites for clients and delivered large web-based DeFi/web3 and blockchain applications throughout my career.
-I have worked in the financial, capital markets, and payments space and have great experience in the smart contract development and UI integration.
+Experienced C++ and Python Developer <br>
+I have worked in the financial, medical markets, and payments space for about a year.
 </p>
 
 <h2>🥇 Specialised in:</h2>
