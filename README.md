@@ -12,6 +12,9 @@ Proficient in C++ and Python Developer <br>
 <h2>👀 Specialised in:</h2>
 <p> 🔸Web development, Dotnet
 <p>
+  
+ </div>
+ </div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lewis-2000&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
 
