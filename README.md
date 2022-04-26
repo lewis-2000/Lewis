@@ -5,7 +5,7 @@
 ## 👱🏾‍♂ About me:
 
 <p>
-Currently IN school Learning software engineering
+Currently in school Learning software engineering
 Proficient in C++ and Python Developer <br>
 </p>
 
@@ -18,7 +18,8 @@ Proficient in C++ and Python Developer <br>
 <p>
   
   
- </p>
+</p>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lewis-2000&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
