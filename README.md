@@ -6,7 +6,7 @@
 
 <p>
 Currently in school Learning software engineering
-Proficient in C++ and Python Developer <br>
+</br>Proficient in C++ and Python Developer <br>
 </p>
 
 <h2>👀 Specialised in:</h2>
