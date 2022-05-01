@@ -6,7 +6,7 @@
 
 <p>
 Currently in school Learning software engineering
-</br>Proficient in C++ and Python Developer
+</br>Proficient in C++ and Python
 </br> Love eating if that is relevant
 </p>
 
